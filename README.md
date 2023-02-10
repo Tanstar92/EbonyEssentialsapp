@@ -1,5 +1,5 @@
 # EbonyEssentialsapp
-django store app commands
+python django store app commands
 
 python manage.py startapp django_class
 pip install whitenoise
